@@ -1,0 +1,16 @@
+name: ossen
+channels: 
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - networkx
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - geopandas
